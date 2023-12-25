@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     font-family: 'Comfortaa', cursive;
-    font-size: 14px;
+    font-size: 10px;
     background-color: #1a1a1a; 
     color: #fff;
 }
@@ -20,7 +20,7 @@ body {
 
 blockquote {
     font-style: italic;
-    font-size: 24px;
+    font-size: 14px;
     text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
 }
 
