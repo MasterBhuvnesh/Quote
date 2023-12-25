@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Comfortaa', cursive;
+    font-size: 24px;
+    background-color: #000; 
+    color: #fff;
+}
+
+#quote-container {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0); 
+    letter-spacing: 2px;
+    line-height: 1.5; 
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 24px;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
+footer {
+    margin-top: 10px;
+    font-style: normal;
+    color: #ddd;
+} 
+#quote {
+    margin-bottom: 10px;
+}
+
+#author {
+    color: rgba(255, 255, 255, 0.7);
+}
